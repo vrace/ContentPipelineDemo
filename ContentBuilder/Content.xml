@@ -1,0 +1,4 @@
+<Contents Output="Content.wxf">
+  <Content File="Content.xml" Importer="RawImporter" Processor="RawProcessor" />
+  <Content File="ContentTypes/RawContentType.cpp" />
+</Contents>
